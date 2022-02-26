@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/Movie-App/static/js/main.21048705.js",
-    "index.html": "/github.io/Movie-App/index.html",
-    "main.21048705.js.map": "/github.io/Movie-App/static/js/main.21048705.js.map"
+    "main.js": "/Movie-App/static/js/main.21048705.js",
+    "index.html": "/Movie-App/index.html",
+    "main.21048705.js.map": "/Movie-App/static/js/main.21048705.js.map"
   },
   "entrypoints": [
     "static/js/main.21048705.js"
